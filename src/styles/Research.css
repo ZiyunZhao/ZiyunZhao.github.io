@@ -1,0 +1,186 @@
+.Research {
+    background-color:  rgba(233, 233, 233, 0.836);
+    /* background-color: blue; */
+    position: relative;
+    top: -50px;
+    height: 2000px;
+}
+
+.Research .name {
+    position: relative;
+    font-weight: bold;
+    font-size: 25px;
+    left: -341px;
+}
+
+.Research .faas_title {
+    position: relative;
+    font-size: 20px;
+    font-weight: bold;
+    left: -262px;
+
+}
+
+.Research .ASED_title {
+    position: relative;
+    font-size: 20px;
+    font-weight: bold;
+    left: -332px;
+
+}
+
+.Research .description {
+    position: relative;
+    background-color: rgba(233, 233, 233, 0.836);
+    width: 1000px;
+    left: 284px;
+    text-align: left;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+
+
+.Research .projects {
+    position: relative;
+    font-weight: bold;
+    font-size: 25px;
+    left: -430px;
+}
+
+
+.Research .rec_title {
+    position: relative;
+    font-size: 20px;
+    font-weight: bold;
+    left: -207px;
+}
+
+.Research .rec_stack {
+    float: right;
+    font-size: 18px;
+    position: relative;
+    left: -78px;
+}
+
+.Research .rec_description {
+    position: relative;
+    background-color: rgba(233, 233, 233, 0.836);
+    width: 1000px;
+    left: 250px;
+    text-align: left;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+
+
+
+
+
+.Research .rl_title {
+    position: relative;
+    font-size: 20px;
+    font-weight: bold;
+    left: -256px;
+}
+
+.Research .rl_stack {
+    float: right;
+    font-size: 18px;
+    position: relative;
+    left: -32px;
+}
+
+.Research .rl_description {
+    position: relative;
+    background-color: rgba(233, 233, 233, 0.836);
+    width: 1000px;
+    left: 255px;
+    text-align: left;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+
+
+
+
+
+.Research .cv_title {
+    position: relative;
+    font-size: 20px;
+    font-weight: bold;
+    left: -236px;
+}
+
+.Research .cv_stack {
+    float: right;
+    font-size: 18px;
+    position: relative;
+    left: -53px;
+}
+
+.Research .cv_description {
+    position: relative;
+    background-color: rgba(233, 233, 233, 0.836);
+    width: 1000px;
+    left: 256px;
+    text-align: left;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+
+
+
+
+
+.Research .os_title {
+    position: relative;
+    font-size: 20px;
+    font-weight: bold;
+    left: -329px;
+}
+
+.Research .os_stack {
+    float: right;
+    font-size: 18px;
+    position: relative;
+    left: 40px;
+}
+
+.Research .os_description {
+    position: relative;
+    background-color: rgba(233, 233, 233, 0.836);
+    width: 1000px;
+    left: 257px;
+    text-align: left;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+
+.Research .kc_title {
+    position: relative;
+    font-size: 20px;
+    font-weight: bold;
+    left: -322px;
+}
+
+.Research .kc_stack {
+    float: right;
+    font-size: 18px;
+    position: relative;
+    left: 35px;
+}
+
+.Research .kc_description {
+    position: relative;
+    background-color: rgba(233, 233, 233, 0.836);
+    width: 1000px;
+    left: 258px;
+    text-align: left;
+    font-size: 18px;
+    line-height: 30px;
+}
